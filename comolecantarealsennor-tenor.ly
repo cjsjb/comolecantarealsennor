@@ -5,6 +5,7 @@
 \header {
 	title = "Cómo le cantaré al Señor"
 	tagline = "Coro Juvenil San Juan Bosco"
+	instrument = "Tenor"
 }
 #(set-global-staff-size 20)
 #(set-default-paper-size "letter")
@@ -28,8 +29,6 @@ globalTempo = {
 
 		\include "comolecantarealsennor-acordes.inc"
 		\new StaffGroup <<
-			\include "comolecantarealsennor-soprano.inc"
-			\include "comolecantarealsennor-mezzo.inc"
 			\include "comolecantarealsennor-tenor.inc"
 		>>
 	>>
