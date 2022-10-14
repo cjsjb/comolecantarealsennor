@@ -109,7 +109,7 @@
 		\bar "|."
 	}
 
-	\lyricsto "voz-soprano" \new Lyrics \lyricmode {
+	\new Lyrics \lyricsto "voz-soprano" {
 		% Estribillo
 		Có -- mo le can -- ta -- "ré al" Se -- ñor,
 		có -- mo le can -- ta -- ré,
