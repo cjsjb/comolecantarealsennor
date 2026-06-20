@@ -5,6 +5,7 @@
 	% Como le cantare al Sennor...
 	\break
 	\skip 1*4
+	\break
 	\skip 1*5
 
 	% El esta en los montes y en el mar...
@@ -14,6 +15,7 @@
 	% Como le cantare al Sennor...
 	\break
 	\skip 1*4
+	\break
 	\skip 1*5
 
 	% No mira en los hombres su color...
@@ -23,6 +25,7 @@
 	% Como le cantare al Sennor...
 	\break
 	\skip 1*4
+	\break
 	\skip 1*5
 
 	% Vamos a su mesa de bonda...
@@ -32,6 +35,7 @@
 	% Como le cantare al Sennor...
 	\break
 	\skip 1*4
+	\break
 	\skip 1*5
 
 	% Un mandato nuevo nos da Dios...
@@ -41,5 +45,6 @@
 	% Como le cantare al Sennor...
 	\break
 	\skip 1*4
+	\break
 	%\skip 1*5
 }
